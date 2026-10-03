@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+outputs_smoke/
+outputs_calib/
+outputs_nb/
+outputs_nb_fast/
+outputs/**/*.pt
+venv*/
+outputs/**/*.pt
